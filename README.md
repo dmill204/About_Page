@@ -17,12 +17,11 @@
   </script>
 <body>
     <header>
-        <h1>About Me</h1>
+        <li><a href="https://dmill204.github.io/Web_Page/">Home</a></li>
+        <h1>The Modern Web</h1>
         <nav>
             <ul>
                 <li><a href="https://dmill204.github.io/Web_Page/">Home</a></li>
-                <li><a href="https://dmill204.github.io/About_Page/">About</a></li>
-                <li><a href="https://dmill204.github.io/Contact_Page/">Contact</a></li>
             </ul>
         </nav>
     </header>
