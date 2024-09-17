@@ -21,12 +21,34 @@
         <h1>The Modern Web</h1>
         <nav>
             <ul>
-                <li><a href="https://dmill204.github.io/Web_Page/">Home</a></li>
+                <li><a href="[https://dmill204.github.io/Web_Page/](https://books.google.com/books?id=Wfan6L9RGgYC&hl=&source=gbs_api)">Book Preview and additional information</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <p>I am a dedicated and focused student at Kennesaw State University. Currently I am focusing on perusing my bachelor’s degree in information technology with a concertation in data analytics. My hobbies include hiking, swimming, and exploring the outdoors, I also enjoy playing racing games and chess. My favorite sport is soccer, and I got into soccer by watching Cristiano Ronaldo play for Real Madrid back when I was in sixth grade. Fun fact about me is that I can speak in four different languages and read and write in three of them. </p>
+        <p>Author - Peter Gasston</p>
+        <p></p>
+        <p>Subtitle - Multi-device Web Development with HTML5, CSS3, and JavaScript</p>
+        <p></p>
+        <p>Released Date/ Publisher - 2013 by No Starch Press</p>
+        <p></p>
+        <p>Headline - A Guide to Modern Web Development</p>
+        <p></p>
+        <p>Today's web technologies are evolving at near-light speed, bringing the promise of a seamless Internet ever closer to reality. When users can browse the Web on a three-inch phone screen as easily as on a fifty-inch HDTV, what's a developer to do?</p>
+        <p></p>
+        <p>Peter Gasston's The Modern Web will guide you through the latest and most important tools of device-agnostic web development, including HTML5, CSS3, and JavaScript. His plain-English explanations and practical examples emphasize the techniques, principles, and practices that you'll need to easily transcend individual browser quirks and stay relevant as these technologies are updated.</p>
+        <p></p>
+        <p>Learn how to:</p>
+        <p></p>
+        <p>* Plan your content so that it displays fluidly across multiple devices</p>
+        <p></p>
+        <p>* Design websites to interact with devices using the most up-to-date APIs, including Geolocation, Orientation, and Web Storage</p>
+        <p></p>
+        <p>* Incorporate cross-platform audio and video without using troublesome plug-ins</p>
+        <p></p>
+        <p>* Make images and graphics scalable on high-resolution devices with SVGUse powerful HTML5 elements to design better forms</p>
+        <p></p>
+        <p>Turn outdated websites into flexible, user-friendly ones that take full advantage of the unique capabilities of any device or browser. With the help of The Modern Web, you'll be ready to navigate the front lines of device-independent development.</p>
     </main>
     <footer>
     </footer>
