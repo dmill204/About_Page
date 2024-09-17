@@ -21,7 +21,7 @@
         <h1>The Modern Web</h1>
         <nav>
             <ul>
-                <li><a href="https://books.google.com/books?id=Wfan6L9RGgYC&hl=&source=gbs_api">Book Preview and additional information</a></li>
+                <li><a href="https://books.google.com/books?id=Wfan6L9RGgYC&hl=&source=gbs_api">Click here for book preview and additional information</a></li>
             </ul>
         </nav>
     </header>
